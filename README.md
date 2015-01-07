@@ -14,3 +14,6 @@ Basics
 ------
 
 This is intended to be used only with Airlines Manager.
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Benderwan/am-app/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
