@@ -11,6 +11,7 @@ main {
     border: 1px solid #eaeaea;
     max-width: 990px;
     position: relative;
+    overflow: hidden;
 }
 
 section {
