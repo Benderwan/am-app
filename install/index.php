@@ -6,6 +6,7 @@
 <head>
     <title>Install</title>
     <link href="storage/assets/style/installer.css" rel="stylesheet">
+    <meta charset="utf-8">
 </head>
 <body>
 <main>
@@ -18,6 +19,15 @@
         <div>Finish</div>
     </section>
     <h1>Installer</h1>
+
+    <p>
+        Please chose the language to use during installation and for you board.
+
+        <select>
+            <option>Français (FR_fr)</option>
+            <option>Anglais (EN_en)</option>
+        </select>
+    </p>
 </main>
 </body>
 </html>
